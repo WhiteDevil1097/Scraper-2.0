@@ -3,9 +3,9 @@ scrape any webserver or websites
 to responsibel at your own 
 »Run«
 <br>
->'pkg install git'
->'pkg install python'
->'python @Scraper2.0.py'
+>>> pkg install git
+>>> pkg install python
+>>> python @Scraper2.0.py
 <br>
 
 <h3>Visitors :</h3>
